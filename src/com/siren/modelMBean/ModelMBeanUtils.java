@@ -45,6 +45,7 @@ public class ModelMBeanUtils {
 				new ModelMBeanAttributeInfo[]{nameAttrInfo}, null, new ModelMBeanOperationInfo[]{print1Info, print2Info}, null,
 				null);
 		return mbeanInfo;
+		
 	}
 
 }
